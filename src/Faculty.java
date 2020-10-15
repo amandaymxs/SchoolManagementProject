@@ -9,7 +9,7 @@ public class Faculty extends FacultyStudents{
 	 ----------------------------------*/
 	public Faculty() {
 		salary = 45000;
-		department = "English";
+		department = "ENGLISH";
 		
 	}
 	
